@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class AirplaneSeatingPlan {
-   
+      //this is a comment
    
       // multidimentional array for airplane seating plan
       static String [][] airplane = new String [13][6];
